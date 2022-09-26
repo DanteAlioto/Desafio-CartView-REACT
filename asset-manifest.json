@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Desafio-Cart-View-REACT/static/css/main.fe9d0225.css",
-    "main.js": "/Desafio-Cart-View-REACT/static/js/main.5c372b55.js",
-    "static/js/787.96f7b6f3.chunk.js": "/Desafio-Cart-View-REACT/static/js/787.96f7b6f3.chunk.js",
-    "index.html": "/Desafio-Cart-View-REACT/index.html",
-    "main.fe9d0225.css.map": "/Desafio-Cart-View-REACT/static/css/main.fe9d0225.css.map",
-    "main.5c372b55.js.map": "/Desafio-Cart-View-REACT/static/js/main.5c372b55.js.map",
-    "787.96f7b6f3.chunk.js.map": "/Desafio-Cart-View-REACT/static/js/787.96f7b6f3.chunk.js.map"
+    "main.css": "/Desafio-CartView-REACT/static/css/main.fe9d0225.css",
+    "main.js": "/Desafio-CartView-REACT/static/js/main.2741efea.js",
+    "static/js/787.96f7b6f3.chunk.js": "/Desafio-CartView-REACT/static/js/787.96f7b6f3.chunk.js",
+    "index.html": "/Desafio-CartView-REACT/index.html",
+    "main.fe9d0225.css.map": "/Desafio-CartView-REACT/static/css/main.fe9d0225.css.map",
+    "main.2741efea.js.map": "/Desafio-CartView-REACT/static/js/main.2741efea.js.map",
+    "787.96f7b6f3.chunk.js.map": "/Desafio-CartView-REACT/static/js/787.96f7b6f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe9d0225.css",
-    "static/js/main.5c372b55.js"
+    "static/js/main.2741efea.js"
   ]
 }
