@@ -26,7 +26,7 @@ export const ItemDetailContainer = () => {
         });
 
         getData.then(res => setData(res.find(productos => productos.id === parseInt(detalleId))));
-    }, [])
+    }, [detalleId])
 
     return (
         <ItemDetail data={data}/>
