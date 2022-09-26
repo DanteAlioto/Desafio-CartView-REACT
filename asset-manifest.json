@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Desafio-Cart-View-REACT/static/css/main.fe9d0225.css",
+    "main.js": "/Desafio-Cart-View-REACT/static/js/main.5c372b55.js",
+    "static/js/787.96f7b6f3.chunk.js": "/Desafio-Cart-View-REACT/static/js/787.96f7b6f3.chunk.js",
+    "index.html": "/Desafio-Cart-View-REACT/index.html",
+    "main.fe9d0225.css.map": "/Desafio-Cart-View-REACT/static/css/main.fe9d0225.css.map",
+    "main.5c372b55.js.map": "/Desafio-Cart-View-REACT/static/js/main.5c372b55.js.map",
+    "787.96f7b6f3.chunk.js.map": "/Desafio-Cart-View-REACT/static/js/787.96f7b6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9d0225.css",
+    "static/js/main.5c372b55.js"
+  ]
+}
